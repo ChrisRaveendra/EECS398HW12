@@ -1,0 +1,7 @@
+[user]
+	email = craveend@umich.edu
+	name = Chris Raveendra
+[core]
+	editor = vim
+[push]
+	default = matching
